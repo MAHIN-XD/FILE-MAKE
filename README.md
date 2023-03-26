@@ -1,7 +1,7 @@
 # FILE-MAKE
 
-git clone https://github.com/MAHIN-XD/FILE-MAKE
+# Run This
 
-cd FILE-MAKE
-
-python FILE.py
+       git clone https://github.com/MAHIN-XD/FILE-MAKE
+       cd FILE-MAKE
+       python FILE.py
